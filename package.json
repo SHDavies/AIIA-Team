@@ -3,9 +3,6 @@
   "version": "0.0.1",
   "type": "module",
   "repository": "https://github.com/SHDavies/aiia-team.git",
-  "files": [
-    "dist/assets"
-  ],
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
