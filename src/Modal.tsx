@@ -22,7 +22,7 @@ export default function Modal({ member, onClose }: ModalProps) {
 
   return (
     <>
-      <div class="max-w-[40vw] fixed top-12 bg-white rounded-lg overflow-hidden z-20 animate-slide-in markdown">
+      <div class="max-w-[70vw] md:max-w-[50vw] fixed top-12 bg-white rounded-lg overflow-hidden z-20 animate-slide-in markdown">
         <div class="p-6 overflow-x-auto max-h-[60vh]">
           <h2 class="text-2xl text-slate-700 mb-6">{member.name}</h2>
           {bio ? (
