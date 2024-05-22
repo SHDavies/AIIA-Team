@@ -25,7 +25,16 @@ export default function Modal({ member, onClose }: ModalProps) {
       <div class="max-w-[40vw] fixed top-12 bg-white rounded-lg overflow-hidden z-20 animate-slide-in markdown">
         <div class="p-6 overflow-x-auto max-h-[60vh]">
           <h2 class="text-2xl text-slate-700 mb-6">{member.name}</h2>
-          <Markdown>{bio}</Markdown>
+          {bio ? (
+            <Markdown>{bio}</Markdown>
+          ) : (
+            <div class="lds-ring">
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+            </div>
+          )}
         </div>
         <div class="w-full bg-white px-6 py-3 flex justify-center md:justify-end">
           <button
