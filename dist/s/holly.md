@@ -1,0 +1,5 @@
+Holly Davies is a wife and a mom of three amazing kids. She graduated from Utah Valley University with a bachelor’s degree in Elementary Education and used to teach 5th grade. Now she stays home with her children.
+
+Although Holly has not personally dealt with substance abuse, she was affected by addiction as a child of alcoholics. Holly decided at a young age to break the cycle of addiction in her life.  Addict II Athlete has helped Holly find connection, friendship, and healing. Addict II Athlete has become a passion of hers to help those affected by addiction. 
+
+When not running or attending Addict II Athlete activities, Holly enjoys playing with her children, reading, knitting, crocheting, and baking. Since being on the team Holly has accomplished many goals such as running a half marathon. She also has earned the Heart of Champion award in May of 2022 which has been incredibly important to her. As a Recovery Coach, Holly's goals are to show the importance of connection, friendship, and service.

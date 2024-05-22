@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Blu Robinson, SUDC, CMHC",
+    "role": "Head Coach-Board Chair",
+    "email": "blu@addicttoathlete.org",
+    "image": "blu1.jpeg",
+    "bio": "blu.md",
+    "imgPosition": {
+      "bottom": "30px"
+    }
+  },
+  {
+    "name": "Marissa Robinson, TRS, CTRS",
+    "role": "Athletic Director-President",
+    "email": "marissa@addicttoathlete.org",
+    "image": "marissa.jpeg",
+    "bio": "marissa.md"
+  },
+  {
+    "name": "Jed Jensen",
+    "role": "Utah Recovery Coach-Board Vice Chair",
+    "email": "jed@addicttoathlete.org",
+    "image": "jed.jpeg",
+    "bio": "jed.md",
+    "imgPosition": {
+      "max-width": "none",
+      "max-height": "100%"
+    }
+  },
+  {
+    "name": "Tim Whipple",
+    "role": "Chief Financial Officer- Treasurer",
+    "email": "twhipple@firstpurpose.com",
+    "image": "timothy.jpg",
+    "bio": "tim.md"
+  },
+  {
+    "name": "David Matthews",
+    "role": "Board Member",
+    "email": "dmmatthews94@gmail.com",
+    "image": "DavidM.jpeg",
+    "bio": "david.md"
+  },
+  {
+    "name": "Tara Butson",
+    "role": "Colorado Recovery Coach",
+    "image": "tara.jpg",
+    "bio": "tara.md",
+    "imgPosition": {
+      "max-width": "none",
+      "max-height": "100%"
+    }
+  },
+  {
+    "name": "Kenny Roseman",
+    "role": "Utah County Recovery Coach",
+    "image": "KennyR.jpeg",
+    "bio": "kenny.md",
+    "imgPosition": {
+      "bottom": "30px"
+    }
+  },
+  {
+    "name": "Earl Dyer",
+    "role": "Utah County Recovery Coach",
+    "image": "earl.jpg",
+    "bio": "earl.md"
+  },
+  {
+    "name": "Holly Davies",
+    "role": "Utah County Recovery Coach",
+    "image": "holly.jpg",
+    "bio": "holly.md"
+  },
+  {
+    "name": "Ginger Carter",
+    "role": "Utah County Recovery Coach",
+    "image": "ginger2.jpg",
+    "bio": "ginger.md"
+  },
+  {
+    "name": "Dee Lohse",
+    "role": "Family Systems Recovery Coach",
+    "image": "dee.jpg",
+    "bio": "dee.md"
+  }
+]
