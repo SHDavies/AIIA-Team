@@ -11,7 +11,7 @@ export default function Modal({ member, onClose }: ModalProps) {
   const [bio, setBio] = useState<string>()
 
   const fetchBio = async () => {
-    const response = await fetch(`/s/${member.bio}`)
+    const response = await fetch(`https://cdn.jsdelivr.net/gh/SHDavies/aiia-team@main/dist/s/${member.bio}`)
     const bioData: string = await response.text()
     setBio(bioData)
   }
