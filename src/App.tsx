@@ -1,4 +1,3 @@
-import teamJson from "/s/team.json?url"
 import Modal from "./Modal"
 import TeamMember, { Member } from "./TeamMember"
 import { useEffect, useState } from "preact/hooks"
@@ -8,7 +7,7 @@ export function App() {
   const [selectedMember, setSelectedMember] = useState<Member | null>(null)
 
   const fetchTeamData = async () => {
-    const response = await fetch(teamJson)
+    const response = await fetch("https://cdn.jsdelivr.net/gh/SHDavies/aiia-team@main/dist/s/team.json")
     const teamData: Member[] = await response.json()
     setTeam(teamData)
   }
